@@ -40,4 +40,4 @@ Toolbox: Pandas, Numpy, Seaborn, Plotly, Matplotlib.
 
 Preview: https://htmlpreview.github.io/?https://github.com/miguelwy/DataS/master/dataanalysis/CitiBike/CitiBike2017.html
 
-File: [a link](https://github.com/miguelwy/DataS/master/dataanalysis/CitiBike/CitiBike2017.html)
+[Link to HTML file](https://github.com/miguelwy/DataS/master/dataanalysis/CitiBike/CitiBike2017.html)
