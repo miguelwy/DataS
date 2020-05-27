@@ -9,7 +9,7 @@ Dataset: https://www.kaggle.com/carlosparadis/fires-from-space-australia-and-new
 
 Toolbox: Pandas, Plotly.
 
-![](dataviz/AustralianBlackSummer/BlackSummerDensity4.png)
+![](dataviz/SpotifyGenres/BlackSummerDensity4.png)
 
 <h4>Spotify Song Genres (Ongoing)</h4>
 
@@ -18,3 +18,12 @@ Dataset: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/da
 Toolbox: Pandas, Plotly.
 
 ![](dataviz/AustralianBlackSummer/Rock.png)
+
+<h4>Cocktails</h4>
+
+Dataset: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/cocktails.csv
+         https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-05-26/boston_cocktails.csv
+
+Toolbox: Pandas, Wordcloud.
+
+![](dataviz/Cocktails/MostUsedIngredients.png)
