@@ -9,7 +9,7 @@ Dataset: https://www.kaggle.com/carlosparadis/fires-from-space-australia-and-new
 
 Toolbox: Pandas, Plotly.
 
-![](dataviz/AustralianBlackSummer/BlackSummerDensity4.png)
+![](dataviz/AustralianBlackSummer/BlackSummerDensity5.png)
 
 <h4>Spotify Song Genres (Ongoing)</h4>
 
