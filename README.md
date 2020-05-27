@@ -1,4 +1,4 @@
-# DataS
+# Miguel Wychovaniec
 <h2>Portfolio for some of my data science projects.</h2>
 
 <h3>Data Visualization</h3>
