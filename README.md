@@ -35,5 +35,5 @@ Toolbox: Pandas, Wordcloud.
 Dataset: CitiBike 2017 First Semester.
 Toolbox: Pandas, Numpy, Seaborn, Plotly, Matplotlib.
 
-
+https://htmlpreview.github.io/?https://github.com/miguelwy/DataS/master/dataanalysis/An%C3%A1lise%20Citibike%20Tripdata%20-%201%20Trimestre%202017%20%20-%20Miguel%20Wychovaniec%20(2).html
 
