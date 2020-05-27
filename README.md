@@ -38,6 +38,6 @@ Toolbox: Pandas, Numpy, Seaborn, Plotly, Matplotlib.
 
 ![](dataanalysis/CitiBike/Map.PNG)
 
-Preview: https://htmlpreview.github.io/?https://github.com/miguelwy/DataS/master/dataanalysis/An%C3%A1lise%20Citibike%20Tripdata%20-%201%20Trimestre%202017%20%20-%20Miguel%20Wychovaniec%20(2).html
+Preview: https://htmlpreview.github.io/?https://github.com/miguelwy/DataS/master/dataanalysis/CitiBike/CitiBike2017.html
 
-File: [a link](https://github.com/miguelwy/DataS/master/dataanalysis/Análise Citibike Tripdata - 1 Trimestre 2017  - Miguel Wychovaniec (2).html)
+File: [a link](https://github.com/miguelwy/DataS/master/dataanalysis/CitiBike/CitiBike2017.html)
