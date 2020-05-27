@@ -27,3 +27,13 @@ Dataset: https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/da
 Toolbox: Pandas, Wordcloud.
 
 ![](dataviz/Cocktails/MosUserIngredients.png)
+
+<h3>Data Analysis</h3>
+
+<h4>Citi Bike New York Trip Data(Portuguese)</h4>
+
+Dataset: CitiBike 2017 First Semester.
+Toolbox: Pandas, Numpy, Seaborn, Plotly, Matplotlib.
+
+
+
