@@ -41,3 +41,19 @@ Toolbox: Pandas, Numpy, Seaborn, Plotly, Matplotlib.
 Preview: https://htmlpreview.github.io/?https://github.com/miguelwy/DataS/master/dataanalysis/CitiBike/CitiBike2017.html
 
 [Link to HTML file](https://github.com/miguelwy/DataS/blob/master/dataanalysis/CitiBike/CitiBike2017.html)
+
+<h3>Machine Learning</h3>
+
+<h4>ASHRAE - Energy Prediction III</h4>
+
+Best Result in Cross Validation: 0.98 (RMSE)
+
+Dataset: Kaggle.
+
+Toolbox: Pandas, Numpy, Scikit-Learn, LightGBM.
+
+![](machinelearning/ASHRAE-EnergyPredictionIII/importance.PNG)
+
+[Link to PDF preview](https://github.com/miguelwy/DataS/blob/master/machinelearning/ASHRAE-EnergyPredictionIII/Preview.pdf)
+
+[Link to Notebook file](https://github.com/miguelwy/DataS/blob/master/machinelearning/ASHRAE-EnergyPredictionIII/ASHRAE_Energy_Prediction_lll.ipynb)
