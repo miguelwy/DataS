@@ -57,3 +57,15 @@ Toolbox: Pandas, Numpy, Scikit-Learn, LightGBM.
 [Link to PDF preview](https://github.com/miguelwy/DataS/blob/master/machinelearning/ASHRAE-EnergyPredictionIII/Preview.pdf)
 
 [Link to Notebook file](https://github.com/miguelwy/DataS/blob/master/machinelearning/ASHRAE-EnergyPredictionIII/ASHRAE_Energy_Prediction_lll.ipynb)
+
+<h4>House Sales in King County, USA</h4>
+
+Best Result R2 Score: 0.88
+
+Dataset: Kaggle.
+
+Toolbox: Pandas, Numpy, Scikit-Learn.
+
+![](machinelearning/House Sales in King County, USA/importance.PNG)
+
+[Link to Notebook file](https://github.com/miguelwy/DataS/blob/master/machinelearning/House Sales in King County, USA/House Sales in King County, USA.ipynb)
