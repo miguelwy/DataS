@@ -52,8 +52,6 @@ Dataset: Kaggle.
 
 Toolbox: Pandas, Numpy, Scikit-Learn, LightGBM.
 
-![](machinelearning/ASHRAE-EnergyPredictionIII/importance.PNG)
-
 [Link to PDF preview](https://github.com/miguelwy/DataS/blob/master/machinelearning/ASHRAE-EnergyPredictionIII/Preview.pdf)
 
 [Link to Notebook file](https://github.com/miguelwy/DataS/blob/master/machinelearning/ASHRAE-EnergyPredictionIII/ASHRAE_Energy_Prediction_lll.ipynb)
@@ -66,6 +64,4 @@ Dataset: Kaggle.
 
 Toolbox: Pandas, Numpy, Scikit-Learn.
 
-![](machinelearning/House Sales in King County, USA/importance.PNG)
-
-[Link to Notebook file](https://github.com/miguelwy/DataS/blob/master/machinelearning/House Sales in King County, USA/House Sales in King County, USA.ipynb)
+[Link to Notebook file](https://github.com/miguelwy/DataS/blob/master/machinelearning/HouseSalesinKingCounty-USA/HouseSalesinKingCounty-USA.ipynb)
