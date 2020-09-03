@@ -65,3 +65,13 @@ Dataset: Kaggle.
 Toolbox: Pandas, Numpy, Scikit-Learn.
 
 [Link to Notebook file](https://github.com/miguelwy/DataS/blob/master/machinelearning/HouseSalesinKingCounty-USA/HouseSalesinKingCounty-USA.ipynb)
+
+<h4>Chest X-Ray Pneumonia Classifier</h4>
+
+Best Result Accuracy: 0.88
+
+Dataset: Kaggle.
+
+Toolbox: Pandas, Numpy, Tensor Flow, Keras.
+
+[Link to Notebook file](https://github.com/miguelwy/DataS/blob/master/machinelearning/ChestXRay/ChestXRay.ipynb)
